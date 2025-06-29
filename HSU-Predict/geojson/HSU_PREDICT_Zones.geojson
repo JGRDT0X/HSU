@@ -1,0 +1,26 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+"type": "Feature",
+"properties": {"code": "S-A", "event": "seism", "window": "09-11 Jul 2025"},
+"geometry": {"type": "Polygon", "coordinates": [[[-71.0, 25.0], [-69.0, 25.0], [-69.0, 30.0], [-71.0, 30.0], [-71.0, 25.0]]]} }
+,   {
+"type": "Feature",
+"properties": {"code": "S-B", "event": "seism", "window": "14-16 Jul 2025"},
+"geometry": {"type": "Polygon", "coordinates": [[[140.0, 28.0], [144.0, 28.0], [144.0, 33.0], [140.0, 33.0], [140.0, 28.0]]]} }
+,   {
+"type": "Feature",
+"properties": {"code": "S-C", "event": "seism", "window": "24-26 Jul 2025"},
+"geometry": {"type": "Polygon", "coordinates": [[[125.0, -7.0], [131.0, -7.0], [131.0, -4.0], [125.0, -4.0], [125.0, -7.0]]]} }
+,   {
+"type": "Feature",
+"properties": {"code": "C-D", "event": "cyclone", "window": "05-08 Jul 2025"},
+"geometry": {"type": "Polygon", "coordinates": [[[135.0, 14.0], [145.0, 14.0], [145.0, 20.0], [135.0, 20.0], [135.0, 14.0]]]} }
+,   {
+"type": "Feature",
+"properties": {"code": "C-E", "event": "cyclone", "window": "19-22 Jul 2025"},
+"geometry": {"type": "Polygon", "coordinates": [[[-82.0, 14.0], [-77.0, 14.0], [-77.0, 18.0], [-82.0, 18.0], [-82.0, 14.0]]]} }
+]
+}
+
